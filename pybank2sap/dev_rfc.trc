@@ -1,0 +1,24 @@
+
+**** Trace file opened at 2019-05-24 14:06:12.047059 UTC+08:00 (中国标准时间)
+NW RFC Library: SDK variant, Release 750 Patch Level 3, Compiled on Feb  1 2019 20:32:23
+ CPIC library: 753.2018.11.12 version 3, NI library: 40, Kernel Release: 753 Patch Level 324
+ Current working directory: D:\Daydayup\python\pycoding\PyRFC\examples\pybank2sap, Program: python
+ Hardware: PC with Windows NT 4x AMD64 Level 6 (Mod 60 Step 3), Operating_system: Windows NT 6.1
+ Hostname: WAUA-PC1858, IP address: 192.168.15.227, IPv6 address: fe80::5c93:907e:e105:3a2
+
+2019-05-24 14:06:12.047059 [02368] >> Error entry
+	[Handle: 54490592	ConvID: 	SysID: 	SysNr: 	Target: 	User: 	Codepage: 4103]
+	RfcCommunicationException: Key: RFC_COMMUNICATION_FAILURE, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host WAUA-PC1858 with Unicode
+ERROR       timeout occured
+TIME        Fri May 24 14:06:12 2019
+RELEASE     753
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -5
+MODULE      D:/depot/bas/753_REL/src/base/ni/nibuf.cpp
+LINE        4705
+DETAIL      NiBufIConnect: route connect
+            '/H/123.125.21.51/H/192.168.100.66' timeout
+COUNTER     2
+
