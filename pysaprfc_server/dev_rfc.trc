@@ -1,0 +1,170 @@
+
+**** Trace file opened at 2019-06-12, 20:18:13 中国标准时间
+ RFC library: 721, Current working directory: C:\pycode\PyRFC\examples, Program: python
+ Hardware: PC with Windows NT 2x AMD64 Level 6 (Mod 23 Step 6), Operating_system: Windows NT 6.1, Kernel_release: 721 patchlevel 42
+ Hostname: WAUA-PC, IP address: 192.168.15.228, IP address_v6: 192.168.15.228
+
+SYSTEM_FAILURE during connect: Incomplete logon data.
+
+
+**** Trace file opened at 2019-06-12, 20:33:12 中国标准时间
+ RFC library: 721, Current working directory: C:\pycode\PyRFC\examples, Program: python
+ Hardware: PC with Windows NT 2x AMD64 Level 6 (Mod 23 Step 6), Operating_system: Windows NT 6.1, Kernel_release: 721 patchlevel 42
+ Hostname: WAUA-PC, IP address: 192.168.15.228, IP address_v6: 192.168.15.228
+
+Error during connect: 
+LOCATION    SAProuter 39.1 (SP3) on 'dfa-it'
+ERROR       dfa-it: route permission denied
+            (154.133.185.123.broad.dl.ln.dynamic.163data.com.cn to , 3299)
+TIME        Wed Jun 12 20:33:01 2019
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -94
+COUNTER     665768
+
+
+
+**** Trace file opened at 2019-06-12, 20:36:22 中国标准时间
+ RFC library: 721, Current working directory: C:\pycode\PyRFC\examples, Program: python
+ Hardware: PC with Windows NT 2x AMD64 Level 6 (Mod 23 Step 6), Operating_system: Windows NT 6.1, Kernel_release: 721 patchlevel 42
+ Hostname: WAUA-PC, IP address: 192.168.15.228, IP address_v6: 192.168.15.228
+
+Error during connect: 
+LOCATION    SAProuter 39.1 (SP3) on 'dfa-it'
+ERROR       dfa-it: route permission denied
+            (154.133.185.123.broad.dl.ln.dynamic.163data.com.cn to , 3299)
+TIME        Wed Jun 12 20:36:11 2019
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -94
+COUNTER     665896
+
+
+
+**** Trace file opened at 2019-06-12, 20:38:26 中国标准时间
+ RFC library: 721, Current working directory: C:\pycode\PyRFC\examples, Program: python
+ Hardware: PC with Windows NT 2x AMD64 Level 6 (Mod 23 Step 6), Operating_system: Windows NT 6.1, Kernel_release: 721 patchlevel 42
+ Hostname: WAUA-PC, IP address: 192.168.15.228, IP address_v6: 192.168.15.228
+
+Error during connect: 
+LOCATION    SAProuter 39.1 (SP3) on 'dfa-it'
+ERROR       dfa-it: route permission denied
+            (154.133.185.123.broad.dl.ln.dynamic.163data.com.cn to , 3299)
+TIME        Wed Jun 12 20:38:15 2019
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -94
+COUNTER     665974
+
+
+
+**** Trace file opened at 2019-06-12, 20:50:46 中国标准时间
+ RFC library: 721, Current working directory: C:\pycode\PyRFC\examples, Program: python
+ Hardware: PC with Windows NT 2x AMD64 Level 6 (Mod 23 Step 6), Operating_system: Windows NT 6.1, Kernel_release: 721 patchlevel 42
+ Hostname: WAUA-PC, IP address: 192.168.15.228, IP address_v6: 192.168.15.228
+
+Error during connect: 
+LOCATION    SAProuter 39.1 (SP3) on 'dfa-it'
+ERROR       dfa-it: route permission denied
+            (154.133.185.123.broad.dl.ln.dynamic.163data.com.cn to , 3299)
+TIME        Wed Jun 12 20:50:35 2019
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -94
+COUNTER     666317
+
+
+
+**** Trace file opened at 2019-06-12, 20:52:21 中国标准时间
+ RFC library: 721, Current working directory: C:\pycode\PyRFC\examples, Program: python
+ Hardware: PC with Windows NT 2x AMD64 Level 6 (Mod 23 Step 6), Operating_system: Windows NT 6.1, Kernel_release: 721 patchlevel 42
+ Hostname: WAUA-PC, IP address: 192.168.15.228, IP address_v6: 192.168.15.228
+
+Error during connect: 
+LOCATION    SAProuter 39.1 (SP3) on 'dfa-it'
+ERROR       dfa-it: route permission denied
+            (154.133.185.123.broad.dl.ln.dynamic.163data.com.cn to , 3299)
+TIME        Wed Jun 12 20:52:09 2019
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -94
+COUNTER     666343
+
+
+
+**** Trace file opened at 2019-06-12, 21:02:15 中国标准时间
+ RFC library: 721, Current working directory: C:\pycode\PyRFC\examples, Program: python
+ Hardware: PC with Windows NT 2x AMD64 Level 6 (Mod 23 Step 6), Operating_system: Windows NT 6.1, Kernel_release: 721 patchlevel 42
+ Hostname: WAUA-PC, IP address: 192.168.15.228, IP address_v6: 192.168.15.228
+
+Error during connect: 
+LOCATION    SAProuter 39.1 (SP3) on 'dfa-it'
+ERROR       dfa-it: route permission denied
+            (154.133.185.123.broad.dl.ln.dynamic.163data.com.cn to , 3299)
+TIME        Wed Jun 12 21:02:04 2019
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -94
+COUNTER     666370
+
+
+
+**** Trace file opened at 2019-06-12, 21:10:30 中国标准时间
+ RFC library: 721, Current working directory: C:\pycode\PyRFC\examples, Program: python
+ Hardware: PC with Windows NT 2x AMD64 Level 6 (Mod 23 Step 6), Operating_system: Windows NT 6.1, Kernel_release: 721 patchlevel 42
+ Hostname: WAUA-PC, IP address: 192.168.15.228, IP address_v6: 192.168.15.228
+
+Error during connect: 
+LOCATION    SAProuter 39.1 (SP3) on 'dfa-it'
+ERROR       dfa-it: route permission denied
+            (154.133.185.123.broad.dl.ln.dynamic.163data.com.cn to , 3299)
+TIME        Wed Jun 12 21:10:19 2019
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -94
+COUNTER     666412
+
+
+
+**** Trace file opened at 2019-06-12, 22:00:10 中国标准时间
+ RFC library: 721, Current working directory: C:\pycode\PyRFC\examples, Program: python
+ Hardware: PC with Windows NT 2x AMD64 Level 6 (Mod 23 Step 6), Operating_system: Windows NT 6.1, Kernel_release: 721 patchlevel 42
+ Hostname: WAUA-PC, IP address: 192.168.15.228, IP address_v6: 192.168.15.228
+
+Error during connect: 
+LOCATION    SAProuter 39.1 (SP3) on 'dfa-it'
+ERROR       dfa-it: route permission denied
+            (154.133.185.123.broad.dl.ln.dynamic.163data.com.cn to , 3299)
+TIME        Wed Jun 12 21:59:59 2019
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -94
+COUNTER     666715
+
+
+
+**** Trace file opened at 2019-06-12, 22:12:53 中国标准时间
+ RFC library: 721, Current working directory: C:\pycode\PyRFC\examples, Program: python
+ Hardware: PC with Windows NT 2x AMD64 Level 6 (Mod 23 Step 6), Operating_system: Windows NT 6.1, Kernel_release: 721 patchlevel 42
+ Hostname: WAUA-PC, IP address: 192.168.15.228, IP address_v6: 192.168.15.228
+
+Error during connect: 
+LOCATION    SAProuter 39.1 (SP3) on 'dfa-it'
+ERROR       dfa-it: route permission denied
+            (154.133.185.123.broad.dl.ln.dynamic.163data.com.cn to , 3299)
+TIME        Wed Jun 12 22:12:41 2019
+RELEASE     710
+COMPONENT   NI (network interface)
+VERSION     39
+RC          -94
+COUNTER     666756
+
+
