@@ -1,0 +1,27 @@
+/**
+ * @param path 对方或第三方提供的路径
+ * @param token
+ * @return
+ */
+public static  String getMessageByUrlToken(String path,String token){
+    String result="";
+    try {
+        // 根据地址获取请求
+        HttpGet request = new HttpGet(path);//这里发送get请求
+        // 获取当前客户端对象
+        // request.setHeader("Authorization", "21416d43-62b5-4522-9d6b-1072ff89bc54");
+        request.setHeader("Authorization", token);
+        HttpClient httpClient = new DefaultHttpClient();
+        // 通过请求对象获取响应对象
+        HttpResponse response = httpClient.execute(request);
+
+        // 判断网络连接状态码是否正常(0--200都数正常)
+        if (response.getStatusLine().getStatusCode() == HttpStatus.SC_OK) {
+            result= EntityUtils.toString(response.getEntity(),"utf-8");
+        }
+    } catch (Exception e) {
+        // TODO Auto-generated catch block
+        e.printStackTrace();
+    }
+    return result;
+}
